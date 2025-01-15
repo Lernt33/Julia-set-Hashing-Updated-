@@ -41,7 +41,7 @@ y = 0.11114108100871
 
 **Fractal we got**:
 
-![Generated Fractal](https://imgur.com/dSAZ9eR)
+![Generated Fractal](https://i.imgur.com/dSAZ9eR.png)
 
 ---
 
