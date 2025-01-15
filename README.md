@@ -1,3 +1,5 @@
+##Fractals in cryptography overview
+
 Fractals are fascinating mathematical constructs that exhibit intricate and repeating patterns at every scale. In this article, we delve into the world of fractal art using Python and explore how it can be used in a unique way to generate encryption keys.
 
 The provided Python script utilizes the Pygame library to create visualizations of two popular fractals: the Mandelbrot set and the Julia set. These sets are generated using complex numbers and iterative calculations, resulting in stunning visual representations of mathematical concepts.
